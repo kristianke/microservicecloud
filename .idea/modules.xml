@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-dept8001/microservice-provider-dept8001.iml" filepath="$PROJECT_DIR$/microservice-provider-dept8001/microservice-provider-dept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-dept8002/microservice-provider-dept8002.iml" filepath="$PROJECT_DIR$/microservice-provider-dept8002/microservice-provider-dept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice-provider-dept8003/microservice-provider-dept8003.iml" filepath="$PROJECT_DIR$/microservice-provider-dept8003/microservice-provider-dept8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud-eureka-7001/microserviceCloud-eureka-7001.iml" filepath="$PROJECT_DIR$/microserviceCloud-eureka-7001/microserviceCloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud-eureka-7002/microserviceCloud-eureka-7002.iml" filepath="$PROJECT_DIR$/microserviceCloud-eureka-7002/microserviceCloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceCloud-eureka-7003/microserviceCloud-eureka-7003.iml" filepath="$PROJECT_DIR$/microserviceCloud-eureka-7003/microserviceCloud-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud.iml" filepath="$PROJECT_DIR$/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" filepath="$PROJECT_DIR$/microservicecloud-api/microservicecloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-config-3344/microservicecloud-config-3344.iml" filepath="$PROJECT_DIR$/microservicecloud-config-3344/microservicecloud-config-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" filepath="$PROJECT_DIR$/microservicecloud-config-client-3355/microservicecloud-config-client-3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" filepath="$PROJECT_DIR$/microservicecloud-zuul-gateway-9527/microservicecloud-zuul-gateway-9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microserviceconsumerdept80/microserviceconsumerdept80.iml" filepath="$PROJECT_DIR$/microserviceconsumerdept80/microserviceconsumerdept80.iml" />
+    </modules>
+  </component>
+</project>
